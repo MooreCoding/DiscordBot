@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-
+# Version: 3.6
 # Author: David Moore
 # Description: This program will go to the iFunny website and post the first 100 memes into a discord text channel unless given a different number.
 # this functionality was embedded from a program I called "loopMemes", and can work by itself.
